@@ -1,5 +1,7 @@
-### Hello, im a proffesional alcoholic
+### Hello, im a proffesional alcoholic (of course im joking)
 and if the time lets, a game developer and designer
+
+Work with the Neoreva team on improving Minecraft Bedrock
 
 ### Time Statistics
 Recorded using [wakatime](https://wakatime.com).
