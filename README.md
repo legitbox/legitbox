@@ -28,4 +28,4 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 here is a silly picture of a floaty legitbox
-![Silly legitbox](image-url)
+![Silly legitbox](goobernoback_lower.png)
