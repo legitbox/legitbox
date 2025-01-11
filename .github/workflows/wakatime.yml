@@ -1,0 +1,30 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # This will update stats every hour (you can adjust it as needed)
+  workflow_dispatch:  # This allows you to trigger it manually from GitHub UI
+
+jobs:
+  update-wakatime-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up WakaTime
+        uses: wakatime/action@v2
+        with:
+          # Set up your WakaTime API key here (or you can store it as a GitHub secret)
+          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
+
+      - name: Update README with WakaTime stats
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install wakatime-cli
+          wakatime-cli --update-readme
+          git config --global user.email "materixasqwerty@gmail.com"
+          git config --global user.name "Gaming"
+          git add README.md
+          git commit -m "Update WakaTime stats"
+          git push
