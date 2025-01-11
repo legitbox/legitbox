@@ -3,7 +3,7 @@ and if the time lets, a game developer and designer
 
 :trollface: Gregtech enjoyer :trollface:
 
-Working with the endstone server software project as a social manager
+Working with the endstone server software project as a social manager<br>
 Working with the Neoreva team on improving Minecraft Bedrock addons
 
 ### Time Statistics
