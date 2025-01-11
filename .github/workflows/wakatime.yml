@@ -1,30 +1,35 @@
-name: WakaTime Stats
+name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # This will update stats every hour (you can adjust it as needed)
-  workflow_dispatch:  # This allows you to trigger it manually from GitHub UI
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
-  update-wakatime-stats:
+  update-readme_all_time:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up WakaTime
-        uses: wakatime/action@v2
+      - uses: athul/waka-readme@master
         with:
-          # Set up your WakaTime API key here (or you can store it as a GitHub secret)
-          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
-
-      - name: Update README with WakaTime stats
-        run: |
-          python3 -m pip install --upgrade pip
-          pip install wakatime-cli
-          wakatime-cli --update-readme
-          git config --global user.email "materixasqwerty@gmail.com"
-          git config --global user.name "Gaming"
-          git add README.md
-          git commit -m "Update WakaTime stats"
-          git push
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ▱▰
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          LANG_COUNT: 20
+          CODE_LANG: ocaml
+          SECTION_NAME: waka
+          ### commit
+          COMMIT_MESSAGE: Update Wakatime statistics  # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: Wakatime Workflow # optional
+          #COMMITTER_EMAIL: action-bot@github.com # optional
+          #AUTHOR_NAME: YOUR_NAME # optional
+          #AUTHOR_EMAIL: YOUR@EMAIL.com # optional
+          # you can populate email-id with secretes instead
