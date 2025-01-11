@@ -1,7 +1,10 @@
-### Hello, im a proffesional alcoholic (of course im joking)
+### Hey Hey, im here to eat your cheese sticks :3
 and if the time lets, a game developer and designer
 
-Working with the Neoreva team on improving Minecraft Bedrock
+:trollface: Gregtech enjoyer :trollface:
+
+Working with the endstone server software project as a social manager
+Working with the Neoreva team on improving Minecraft Bedrock addons
 
 ### Time Statistics
 Recorded using [wakatime](https://wakatime.com).
@@ -23,3 +26,6 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+here is a silly picture of a floaty legitbox
+![Silly legitbox](image-url)
