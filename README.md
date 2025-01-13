@@ -12,16 +12,16 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 13 November 2024 - To: 11 January 2025
+From: 13 November 2024 - To: 12 January 2025
 
-Total Time: 10 hrs 26 mins
+Total Time: 13 hrs 51 mins
 
-TypeScript    6 hrs 50 mins   ████████████████▒░░░░░░░░   65.60 %
-HTML          59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-JavaScript    55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-JSON          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-CSS           47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript    8 hrs 24 mins   ███████████████░░░░░░░░░░   60.61 %
+JavaScript    2 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+HTML          1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+JSON          1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+CSS           47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
