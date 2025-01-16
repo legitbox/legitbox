@@ -12,18 +12,19 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 13 November 2024 - To: 13 January 2025
+From: 13 November 2024 - To: 14 January 2025
 
-Total Time: 21 hrs 34 mins
+Total Time: 24 hrs 33 mins
 
-TypeScript       12 hrs 24 mins  ██████████████▒░░░░░░░░░░   57.49 %
-JavaScript       4 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-HTML             2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-JSON             1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-CSS              1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-GitIgnore file   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-TSConfig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript       14 hrs 46 mins  ███████████████░░░░░░░░░░   60.19 %
+JavaScript       4 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+HTML             2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+JSON             2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+CSS              1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+GitIgnore file   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TSConfig         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
