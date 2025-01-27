@@ -12,24 +12,25 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 13 November 2024 - To: 25 January 2025
+From: 13 November 2024 - To: 26 January 2025
 
-Total Time: 65 hrs 21 mins
+Total Time: 73 hrs 16 mins
 
-TypeScript        35 hrs 8 mins   █████████████▒░░░░░░░░░░░   53.77 %
-JavaScript        13 hrs 33 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-JSON              5 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-HTML              3 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Python            3 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Rust              1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-CSS               1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-TOML              11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-GitIgnore file    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-TSConfig          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Markdown          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript        35 hrs 8 mins   ████████████░░░░░░░░░░░░░   47.97 %
+JavaScript        13 hrs 33 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+Rust              8 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+JSON              5 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+HTML              3 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Python            3 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+CSS               1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+CSV/TSV           1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Text              20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TOML              17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+GitIgnore file    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TSConfig          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Image (svg)       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 SourceMap         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
