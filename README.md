@@ -12,24 +12,25 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 13 November 2024 - To: 08 February 2025
+From: 13 November 2024 - To: 09 February 2025
 
-Total Time: 112 hrs 26 mins
+Total Time: 116 hrs 28 mins
 
-TypeScript        40 hrs 44 mins  █████████░░░░░░░░░░░░░░░░   36.23 %
-Rust              29 hrs 44 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
-JSON              13 hrs 47 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-JavaScript        13 hrs 35 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-HTML              6 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Python            3 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-CSV/TSV           1 hr 50 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-CSS               1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-TOML              36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Text              22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-GitIgnore file    15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-USD               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-TSConfig          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript        40 hrs 44 mins  ████████▓░░░░░░░░░░░░░░░░   34.97 %
+Rust              32 hrs 2 mins   ███████░░░░░░░░░░░░░░░░░░   27.50 %
+JSON              14 hrs 57 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+JavaScript        13 hrs 35 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+HTML              6 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Python            3 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+CSV/TSV           1 hr 50 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+CSS               1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TOML              37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Text              33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+USD               25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+GitIgnore file    15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TSConfig          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Markdown          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Image (svg)       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 SourceMap         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
