@@ -12,7 +12,7 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 13 November 2024 - To: 04 March 2025
+From: 13 November 2024 - To: 05 March 2025
 
 Total Time: 141 hrs 20 mins
 
