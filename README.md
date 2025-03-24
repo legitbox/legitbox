@@ -12,24 +12,24 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 13 November 2024 - To: 21 March 2025
+From: 13 November 2024 - To: 22 March 2025
 
-Total Time: 147 hrs 28 mins
+Total Time: 148 hrs 29 mins
 
-TypeScript        55 hrs 51 mins  █████████▒░░░░░░░░░░░░░░░   37.87 %
-Rust              32 hrs 48 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-JSON              18 hrs 53 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-JavaScript        14 hrs 29 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-HTML              7 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Python            5 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-CSS               2 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Markdown          2 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Kotlin            2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-CSV/TSV           1 hr 50 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript        56 hrs 40 mins  █████████▓░░░░░░░░░░░░░░░   38.16 %
+Rust              32 hrs 59 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+JSON              18 hrs 54 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+JavaScript        14 hrs 29 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+HTML              7 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Python            5 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+CSS               2 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Markdown          2 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Kotlin            2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+CSV/TSV           1 hr 50 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 Text              41 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 TOML              39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-C#                37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-GitIgnore file    35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+C#                37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+GitIgnore file    35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 USD               25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 textmate          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 TSConfig          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
