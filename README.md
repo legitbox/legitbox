@@ -12,25 +12,25 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 13 November 2024 - To: 28 March 2025
+From: 13 November 2024 - To: 29 March 2025
 
-Total Time: 162 hrs 56 mins
+Total Time: 163 hrs 19 mins
 
-TypeScript        63 hrs 51 mins  █████████▓░░░░░░░░░░░░░░░   39.17 %
-Rust              35 hrs 24 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
-JSON              20 hrs 25 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-JavaScript        16 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-HTML              8 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+TypeScript        64 hrs 13 mins  █████████▓░░░░░░░░░░░░░░░   39.31 %
+Rust              35 hrs 24 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+JSON              20 hrs 26 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+JavaScript        16 hrs 13 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+HTML              8 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 Python            5 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 CSS               2 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 Markdown          2 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Kotlin            2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Kotlin            2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 CSV/TSV           1 hr 50 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Text              1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Text              1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 C#                51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 TOML              39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 GitIgnore file    38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-USD               25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+USD               25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 textmate          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Other             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 TSConfig          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
