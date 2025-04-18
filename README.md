@@ -12,17 +12,17 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 13 November 2024 - To: 15 April 2025
+From: 13 November 2024 - To: 16 April 2025
 
-Total Time: 168 hrs 30 mins
+Total Time: 168 hrs 43 mins
 
-TypeScript        68 hrs 8 mins   ██████████░░░░░░░░░░░░░░░   40.42 %
-Rust              35 hrs 24 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-JSON              21 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-JavaScript        16 hrs 18 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+TypeScript        68 hrs 14 mins  ██████████░░░░░░░░░░░░░░░   40.43 %
+Rust              35 hrs 24 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+JSON              21 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+JavaScript        16 hrs 18 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
 HTML              8 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Python            5 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-CSS               2 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Python            5 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+CSS               2 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 Markdown          2 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 Kotlin            2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 CSV/TSV           1 hr 50 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
