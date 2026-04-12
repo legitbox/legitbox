@@ -1,6 +1,1 @@
-### Hey Hey, im here to eat your cheese sticks :3
-and if the time lets, a game developer and designer
-
-:trollface: Gregtech enjoyer :trollface:
-
-Working with the endstone server software project as a social manager<br>
+WorldBuilder, professional Sillyism practicer and maybe a little bit of TypeScript writer
